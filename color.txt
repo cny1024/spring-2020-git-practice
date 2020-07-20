@@ -2,3 +2,4 @@ black
 red
 yellow
 brown
+white
