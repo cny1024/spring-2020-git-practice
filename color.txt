@@ -5,3 +5,4 @@ brown
 white
 green
 gray
+purple
